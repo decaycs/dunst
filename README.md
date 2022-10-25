@@ -2,8 +2,6 @@
 
 Decay Ported for dunst!
 
-![decayce](./.assets/decayce.png)
-
 ## Installation
 
 Just execute the next commands
@@ -31,19 +29,19 @@ dunst -config <theme>rc
 
 ### Decay
 
-![decay](./.assets/decay.png)
+![decay](./assets/decay.png)
 
 ### Dark Decay
 
-![dark-decay](./.assets/darkdecay.png)
+![dark-decay](./assets/darkdecay.png)
 
 ### Decayce
 
-![decayce](./.assets/decayce.png)
+![decayce](./assets/decayce.png)
 
 ### Light Decay
 
-![light-decay](./.assets/lightdecay.png)
+![light-decay](./assets/lightdecay.png)
 
 ## Thanks to
 
