@@ -15,14 +15,7 @@ Then move the files into your dunst's configuration folder.
 
 ```sh
 # remember to change <theme> to one of: decayce, dark-decay, decay or light-decay
-cp -r ./themes/<theme>.ini ~/.config/polybar
-```
-
-## Usage
-
-When running dunst, run like this as shown below.
-```sh
-dunst -config <theme>rc
+cp -r ./src/<theme>-dunstrc ~/.config/dunst/dunstrc
 ```
 
 ## Gallery
